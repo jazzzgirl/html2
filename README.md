@@ -1,5 +1,26 @@
-# html2
-<h2>텍스트 관련 태그 - 3월 13일</h2>
-hn, hr, p, br, pre, blockquote<br>
-q, strong, b, em, i, mark, span
+# 웹제작 02분반
+기경목 : https://github.com/Gyoungmok<br>
+김나현 : https://github.com/Na123hyun<br>
+김수종 : https://github.com/rlatnwhd<br>
+김유민 : https://github.com/kym2207<br>
+김태원 : https://github.com/Socoms<br>
+김태환 : https://github.com/tkdwk1<br>
+김현탁 : https://github.com/janalai3395<br>
+남태호 : https://github.com/skakiri101<br>
+두국호 : https://github.com/duguohao<br>
+문기홍 : https://github.com/youi7770919<br>
+박수연 : https://github.com/Susucorn<br>
+박준영 : <br>
+백서현 : https://github.com/seohyeon0501<br>
+서형탁 : https://github.com/sht3047<br>
+신승훈 : https://github.com/23seunghun<br>
+양사호 : https://github.com/MuLVenus<br>
+윤진환 : https://github.com/yunjinhwa<br>
+정성욱 : https://github.com/MochaNaru<br>
+정성훈 : https://github.com/Hoon94064<br>
+조예찬 : https://github.com/joyechan1104<br>
+최재혁 : https://github.com/Choijaekyeok<br>
+한병찬 : https://github.com/hanbyungchan/<br>
+한송림 : https://github.com/hhssll685<br>
+한유진 : https://github.com/white0467<br>
 <hr>
